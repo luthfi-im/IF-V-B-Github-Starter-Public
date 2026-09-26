@@ -2,3 +2,4 @@ Ini merupakan file yang ditambahkan dari clone-2
 
 Nama: Luthfi
 Kelas: IF VII A
+NIM: 10223051
